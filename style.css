@@ -1,0 +1,48 @@
+#samsunggalaxys24ultra {
+    width: 300px;
+}
+#oneplus12{
+    width: 300px;
+}
+#xiaomi14ultra{
+    width: 300px;
+}
+#motorolarazr5g{
+    width: 300px;
+}
+#googlepixel9profold{
+    width: 300px;
+}
+#nothingphone2{
+    width: 300px;
+}
+#body{
+    background-color:#a2b9bc;
+    color: black;
+}
+#androidHeading {
+    background-color: #f2e428;
+    color: black;
+    text-align: center;
+    font-size: 3.5rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 10px solid white;
+    border-radius: 50px;
+    box-shadow: 20px 20px 50px black;
+    text-shadow: 10px 10px 20px black;
+}
+#samsunggalaxys24ultraHeading {
+    background-color: #f2e428;
+    color: black;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 10px solid white;
+    border-radius: 50px;
+    box-shadow: 20px 20px 50px black;
+    width: 350px;
+}
+/* #samsunggalaxys24ultraDesc {
+    font-size: 1rem;
+    background-color: #f2e428;
+} */
